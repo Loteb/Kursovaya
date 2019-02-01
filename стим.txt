@@ -1,0 +1,13 @@
+1)авторизация стим(steam api):
+button(https://steamcommunity-a.akamaihd.net/public/images/signinthroughsteam/sits_02.png)
+login,password
+Steam web api:0A0512D535E107D0C370560AD06E0735
+запрос на сервер steam(https://habrahabr.ru/post/172223/)
+2)получение информации о полльзователе
+https://developer.valvesoftware.com/wiki/Steam_Web_API#Private_Data(functions)
+3)запись в базу информации
+4)получение информации из базы и вывод на сайт
+
+
+https://ru.000webhost.com/members/website/kiril228332/build
+

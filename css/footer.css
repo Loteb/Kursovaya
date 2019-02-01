@@ -1,0 +1,47 @@
+.footer{
+    padding-top: 40px;
+    color: #d9d8d2;
+    font-family: 'Comfortaa';
+    font-weight: 700;
+    background-color: #0b0722;
+}
+.footer__socmedia__text{
+    font-size: 32px;
+}
+.footer__socmedia__icons a{
+    color: rgb(217, 216, 210);
+    font-size: 60px;
+    margin-left: 30px;
+}
+.footer__socmedia__icons a:hover{
+    color: rgba(217, 216, 210,.5);
+}
+.footer__steam_story{
+    text-align: center;
+}
+.footer__steam_story__h1{
+    border-top: 4px solid #d9d8d2;
+    border-bottom: 4px solid #d9d8d2;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 48px;
+}
+.footer__steam_story__text{
+    margin-top: 5px;
+    font-size: 24px;
+    display: inline-block;
+}
+.footer__subscribe{
+    text-align: center;
+    padding-top: 10px;
+}
+.footer__subscribe form{
+    margin-top: 10px;
+}
+.footer__subscribe__submit{
+    color: black;
+    font-family: 'Comfortaa';
+    font-weight: 700;
+    font-size: 16px;
+    margin-left: -5px;
+}
