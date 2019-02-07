@@ -5,6 +5,10 @@
     height: 75px;
     padding-top: 10px;
 }
+.header__login img{
+    margin-top: 10px;
+    max-width: 200px;
+}
 .header__logo{
     padding-top: 1px;
     max-width: 205px;
